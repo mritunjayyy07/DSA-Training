@@ -1,0 +1,4 @@
+recursion with void method 
+1. A to I: 
+            string a = "7240"
+            int b =7240 without parsing or function
